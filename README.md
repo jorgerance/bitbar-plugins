@@ -7,6 +7,8 @@ bitbar-plugins
 
 ### docker-swarm-status.sh
 
+![docker-swarm-status.sh BitBar plugin screenshot](.github/docker-swarm-status.png)
+
 Acknowledgments
 ---------------
 
