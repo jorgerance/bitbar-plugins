@@ -11,11 +11,15 @@ Displays **Litecoin (LTC)**, **Monero (XMR)**, **Ethereum (ETH)** and **Bitcoin 
 
 ![crypto-prices.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/crypto-prices.png)
 
+</br>
+
 ### docker-swarm-status.sh
 
 Provides an overview of **Docker Swarm** services.
 
 ![docker-swarm-status.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/docker-swarm-status.png)
+
+</br>
 
 ### totp.sh
 
