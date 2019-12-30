@@ -9,19 +9,19 @@ bitbar-plugins
 
 Displays **Litecoin (LTC)**, **Monero (XMR)**, **Ethereum (ETH)** and **Bitcoin (BTC)** prices based on cryptocompare.com and coinbase.com.
 
-![crypto-prices.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/crypto-prices.png =500)
+![crypto-prices.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/crypto-prices.png)
 
 ### docker-swarm-status.sh
 
 Provides an overview of **Docker Swarm** services.
 
-![docker-swarm-status.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/docker-swarm-status.png =500)
+![docker-swarm-status.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/docker-swarm-status.png)
 
 ### totp.sh
 
 Simple but usefull plugin in order to copy **OATH one-time passwords** into clipboard *(requires oathtool)*.
 
-![totp.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/totp.png =500)
+![totp.sh BitBar plugin screenshot](https://github.com/jorgerance/bitbar-plugins/raw/master/.gitgub/totp.png)
 
 Acknowledgments
 ---------------
